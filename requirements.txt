@@ -1,0 +1,30 @@
+# Data handling
+pandas
+numpy
+scikit-learn
+
+
+# Natural Language Processing (for content-based)
+nltk
+spacy
+sentence-transformers  # For text embeddings (BERT etc.)
+
+# Similarity & sparse operations
+scipy
+annoy                 # Approximate nearest neighbors
+faiss-cpu             # Facebook’s fast ANN search (optional)
+networkx              # Useful for graph-based recommenders
+
+# Evaluation & visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter & development
+jupyter
+ipykernel
+notebook
+tqdm
+
+# Configuration
+pyyaml
